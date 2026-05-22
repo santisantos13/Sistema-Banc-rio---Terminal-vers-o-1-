@@ -27,4 +27,4 @@ Projeto desenvolvido em Python para praticar lógica de programação, estrutura
 - Operadores lógicos
 - Manipulação de strings
 - Fluxo de execução
-<img width="410" height="257" alt="image" src="https://github.com/user-attachments/assets/064441e9-61a7-4eff-9546-086bed879aeb" />
+<img width="405" height="265" alt="Captura de tela 2026-05-21 222221" src="https://github.com/user-attachments/assets/f929104f-c8bb-4499-bbb1-721bd690e840" />
